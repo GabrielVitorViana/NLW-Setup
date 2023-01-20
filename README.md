@@ -5,14 +5,15 @@ NLW é um evento exclusivo e gratuito,promovido pela Rockteseat para,
 ensino de tecnologias WEB.<br/>
 </p>
 
-<p alingn="center">
-Tecnologias 🚀:
+# Tecnologias 🚀:
+
+Esse projeto foi desenfolvido com as seguintes tecnologias
+
 - HTML
--CSS
--JAVA SCRIPT
+  -CSS
+  -JAVA SCRIPT
 - Git e Github
--Figma
-</P>
+  -Figma
 
 <p alingn="center">
 <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
