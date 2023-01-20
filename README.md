@@ -10,10 +10,10 @@ ensino de tecnologias WEB.<br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias
 
 - HTML
-  -CSS
-  -JAVA SCRIPT
+ - CSS
+- JAVA SCRIPT
 - Git e Github
-  -Figma
+  - Figma
 
 <p alingn="center">
 <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
