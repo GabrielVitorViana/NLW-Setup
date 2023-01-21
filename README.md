@@ -10,7 +10,7 @@ ensino de tecnologias WEB.<br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias
 
 - HTML
- - CSS
+- CSS
 - JAVA SCRIPT
 - Git e Github
 - Figma
@@ -22,3 +22,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 # O projeto 💻
 
 O projeto Habits é um app para ajudar a rastrear os hábitos.
+
+- [Visite o projeto online](https://gabrielvitorviana.github.io/NLW-Setup/)
